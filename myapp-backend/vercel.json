@@ -1,0 +1,6 @@
+{
+    "routes": [
+      { "src": "/api/greeting", "dest": "index.js" }
+    ]
+  }
+  
